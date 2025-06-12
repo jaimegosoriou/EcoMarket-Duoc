@@ -8,7 +8,7 @@ Este proyecto corresponde a una solución de arquitectura de microservicios desa
 - **microservice-inventario** (por agregar): Servicio de gestión de inventario.
 - **microservice-config**: Servicio de configuración general del sistema.
 - **microservice-gatwaty**: Servicio de congiguracion de apis.
-- **microservice-eureja**: Servicio de monitore de microservicios.
+- **microservice-eureka**: Servicio de monitore de microservicios.
 
 ##  Tecnologías Utilizadas
 
@@ -60,9 +60,6 @@ DELETE http://localhost:8081/productos/1
 
 DELETE http://localhost:8082/compras/1
 
-
 ## Trabajo Colaborativo
 
 El código fue gestionado con Git para el control de versiones, siguiendo buenas prácticas de modularidad y mantenimiento de los servicios.
-
-
